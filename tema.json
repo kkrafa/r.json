@@ -148,5 +148,10 @@
   },
   "unsafe_colors": {
     "CHAT_GREY": "#0d0212"
+  },
+  "background": {
+    "blur": 1,
+    "url": "https://media.discordapp.net/attachments/996426870633545831/1020756185319735457/IMG_0713.png",
+    "alpha": 1.0
   }
 }
